@@ -4,11 +4,9 @@
 
 # Skills & Interests
 - Programming Languages: Python, C/C++
+- Skills: ROS2, Gazebo, MoveIt2, Nav2
 - Areas of Interest: Cybersecurity, Automation, Artificial Intelligence, Robotics
 - Hobbies: Cycling, Content Creation
-
-# Projects
-- Notable Projects: Quiz software, Robotics Workshop projects, YouTube Content Creation
-
+ 
 # Contact
 - Email: orionshoo@gmail.com
