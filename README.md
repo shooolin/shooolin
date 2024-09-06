@@ -1,6 +1,7 @@
 # About Me
-- Name: Shoolin
-- Location: India
+Hello there! I’m Shoolin, currently focused on learning and exploring programming, robotics, cybersecurity, AI. I’m passionate about robotics, and eager to take on new challenges and projects.
+
+
 
 # Skills & Interests
 - Programming Languages: Python, C/C++
