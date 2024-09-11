@@ -8,6 +8,3 @@ Hello there! I’m Shoolin, currently focused on learning and exploring programm
 - Skills: ROS2, Gazebo, MoveIt2, Nav2
 - Areas of Interest: Cybersecurity, Automation, Artificial Intelligence, Robotics
 - Hobbies: Cycling, Content Creation
- 
-# Contact
-- Email: orionshoo@gmail.com
